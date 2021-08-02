@@ -29,7 +29,7 @@
 				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp PAUSE_BREAK &trans &kp PAUSE_BREAK &reset
 				&trans    &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans  &trans   &bootloader
 				&trans &trans &trans &trans &trans &trans &trans &kp C_MUTE &trans &trans &trans &trans  &kp PG_UP
-				&bt BT_PRV &bt BT_NXT  &kp BT_CLR            &trans                            &trans   &kp HOME   &trans &kp PG_DN &trans
+				&bt BT_PRV &bt BT_NXT  &bt BT_CLR            &trans                            &trans   &kp HOME   &trans &kp PG_DN &trans
 			>;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 		};
